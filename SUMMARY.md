@@ -1,4 +1,5 @@
 # Summary
 
-* Basics
+* [Introduction](README.md)
+* [Basics](basics.md)
 
