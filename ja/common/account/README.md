@@ -1,5 +1,5 @@
 # アカウントメニュー
-* [サービス申し込み](common/accountmenu/service.md)
+* [サービス申し込み](common/account_menu/service.md)
 * サービス解除
 * アクティビティログ
 * 料金明細
