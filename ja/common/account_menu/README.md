@@ -1,6 +1,6 @@
 # アカウントメニュー
-* [サービス申し込み](common/account_menu/service.md)
-* サービス解除
+* [サービス申し込み](account_menu/service_request.md)
+* [サービス解除](account_menu/service_cancellation.md)
 * アクティビティログ
 * 料金明細
 * ライセンス管理
