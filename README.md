@@ -6,5 +6,5 @@
 
 ## Sample Text
 
-* table of contents
+* Table of contents
 
