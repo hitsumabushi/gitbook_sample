@@ -7,5 +7,5 @@
         },
         "version": "1.0"
     },
-    "plugins": ["versions", "video-player", "youtube", "language-picker"]
+    "plugins": ["versions"]
 }
