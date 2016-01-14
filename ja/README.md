@@ -6,7 +6,7 @@ Book built with GitBook {{ gitbook.version }}
 
 # コントロールパネルのヘルプ
 
-* [共通](common/SUMMARY.md)
+* [共通](common/README.md)
 * コンピューティング
 * RDB
 * DNS
