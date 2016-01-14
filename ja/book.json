@@ -1,5 +1,5 @@
 {
-    "plugins": ["mathjax@1.0.0"],
+    "plugins": ["mathjax-beta"],
     "variables": {
         "sample": {
             "first": "1st",
