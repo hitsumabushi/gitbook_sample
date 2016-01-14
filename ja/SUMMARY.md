@@ -1,6 +1,5 @@
 * [共通](common/SUMMARY.md)
-  * 画面構成
-    * [画面構成](control-panel-overview.md)
+  * 画面構成(control-panel-overview.md)
   * アカウントメニュー
     * サービス申し込み
     * サービス解除
