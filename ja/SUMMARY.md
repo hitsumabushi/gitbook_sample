@@ -1,10 +1,10 @@
 * [共通](common/README.md)
   * [画面構成](common/control-panel-overview.md)
-  * [アカウントメニュー](common/account/README.md)
-    * [サービス申し込み](common/account/service.md)
-      * サービス解除
-      * アクティビティログ
-      * 料金明細
+  * [アカウントメニュー](common/account_menu/README.md)
+    * [サービス申し込み](common/account_menu/service.md)
+    * [サービス解除](common/account_menu/service_cancellation.md)
+    * アクティビティログ
+    * 料金明細
     * ライセンス管理
       * 一覧
       * 操作
