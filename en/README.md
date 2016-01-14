@@ -6,13 +6,12 @@ Book built with GitBook {{ gitbook.version }}
 
 # NIFTY Cloud manual
 
-* [共通](common/README.md)
-* コンピューティング
+* [Basics](common/README.md)
+* Computing
 * RDB
 * DNS
-* メッセージキュー
-* ESS (メール配信)
+* ESS (Deliver mail)
 * Automation
 * MQTT
-* ストレージ
-* 監視
+* Storage
+* Monitoring
