@@ -6,6 +6,5 @@
             "third": "3rd"
         },
         "version": "1.0"
-    },
-    "plugins": ["versions"]
+    }
 }
