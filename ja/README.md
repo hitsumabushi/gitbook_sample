@@ -1,4 +1,4 @@
-このドキュメントは、バージョン {{ book.version }} - {{book.sample.first}} です。
+このドキュメントは、バージョン {{ book.version }} - {{ book.sample.first }} です。
 
 
 # コントロールパネルのヘルプ
