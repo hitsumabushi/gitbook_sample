@@ -6,6 +6,5 @@
 
 ## Sample Text
 
-* Toc...
-
+* table of contents
 
