@@ -4,7 +4,7 @@ My file is {{ file.path }}
 Modified at {{ file.mtime }}
 Book built with GitBook {{ gitbook.version }}
 
-# Help for using NIFTY Cloud
+# NIFTY Cloud manual
 
 * [共通](common/README.md)
 * コンピューティング
