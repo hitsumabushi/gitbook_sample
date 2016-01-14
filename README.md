@@ -4,6 +4,4 @@
 
 ---
 
-## Sample Text
-Table of contents
-
+# お試しでドキュメントを書いてみるてすと
