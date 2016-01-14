@@ -1,3 +1,5 @@
+このドキュメントは、 {{ gitbook.version }}
+
 # コントロールパネルのヘルプ
 
 * [共通](common/SUMMARY.md)
