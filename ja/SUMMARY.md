@@ -1,5 +1,5 @@
 * [共通](common/README.md)
-  * [画面構成](control-panel-overview.md)
+  * [画面構成](common/control-panel-overview.md)
   * アカウントメニュー
     * サービス申し込み
     * サービス解除
