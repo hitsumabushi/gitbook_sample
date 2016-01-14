@@ -1,6 +1,6 @@
 # コントロールパネルのヘルプ
 
-* [共通](common/README.md)
+* [共通](common/SUMMARY.md)
 * コンピューティング
 * RDB
 * DNS
