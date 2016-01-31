@@ -2,5 +2,10 @@
     "plugins": [
         "search-languages"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "search_languages": {
+            "lang": "jp"
+        }
+   
+    }
 }
